@@ -43,5 +43,7 @@ And Part I of this book is so dope, seriously: http://www.deeplearningbook.org/
 https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 https://www.youtube.com/watch?v=59Hbtz7XgjM
 
+### General / Random
+http://blog.yhat.com/posts/become-a-data-scientist.html
 
 
