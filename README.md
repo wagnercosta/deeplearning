@@ -15,6 +15,8 @@ https://www.khanacademy.org/math/multivariable-calculus
 
 https://www.khanacademy.org/math/linear-algebra
 
+https://www.khanacademy.org/math/statistics-probability
+
 ### Math
 
 Linear Algebra cheatsheet: http://www.souravsengupta.com/cds2016...
