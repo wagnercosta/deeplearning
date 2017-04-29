@@ -41,7 +41,9 @@ And Part I of this book is so dope, seriously: http://www.deeplearningbook.org/
 
 ### Books
 https://www.manning.com/books/grokking-deep-learning
+
 http://neuralnetworksanddeeplearning.com/
+
 http://www.deeplearningbook.org/ *****
 
 ### Backpropagation
