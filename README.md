@@ -50,6 +50,13 @@ http://www.deeplearningbook.org/ *****
 https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 https://www.youtube.com/watch?v=59Hbtz7XgjM
 
+### RNN
+https://www.youtube.com/watch?v=iX5V1WpxxkY 
+
+http://www.deeplearningbook.org/contents/rnn.html
+
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 ### General / Random
 http://blog.yhat.com/posts/become-a-data-scientist.html
 
