@@ -60,5 +60,9 @@ http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 ### General / Random
 http://blog.yhat.com/posts/become-a-data-scientist.html
 
+### Cheat Sheets
+https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6
+
+
 
 
